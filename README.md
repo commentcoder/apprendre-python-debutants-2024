@@ -1,0 +1,1 @@
+Code et solutions des exercices et projets de la série de vidéos [Apprendre Python pour les Débutants 2024 | Formation Python gratuite en français en partant de 0 🐍](https://www.youtube.com/playlist?list=PLeXyx0kOyiXtZfs2wNcIUqVlZBwunS3gO)
