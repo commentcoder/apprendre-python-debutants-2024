@@ -1,3 +1,7 @@
+Lien vers la vidéo : [Apprendre Python en 1 heure - Cours pour les débutants en Python 2024](https://www.youtube.com/watch?v=5EnpNI2iCZA)
+
+## Série en plusieurs vidéos
+
 Code et solutions des exercices et projets de la série de vidéos [Apprendre Python pour les Débutants 2024](https://www.youtube.com/playlist?list=PLeXyx0kOyiXtZfs2wNcIUqVlZBwunS3gO)
 
 
